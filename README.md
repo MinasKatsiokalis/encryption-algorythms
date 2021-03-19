@@ -1,6 +1,7 @@
 # AES/RSA/SHA 2 from scratch
 A project made for "Information Systems Security"
-AES/RSA/SHA 2 written from scratch (no libraries used)
+
+- AES/RSA/SHA 2 written from scratch (no libraries used)
 
 In order to see the demonstration run 'demo.py'. This contains a small represtantion of every method.
 Every data input is given by-hand in this file, change it manually if you want to test more inputs.
