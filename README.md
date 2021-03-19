@@ -1,4 +1,4 @@
-# AES/RSA/SHA 2 from scratch
+# Symmetric/Assymetric Encryption & Hashing
 A project made for "Information Systems Security"
 
 - AES/RSA/SHA 2 written from scratch (no libraries used)
